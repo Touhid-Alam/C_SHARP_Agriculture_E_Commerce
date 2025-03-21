@@ -2,6 +2,9 @@
 <h3>Overview:</h3>
 <p align=justify>The Agricultural E-commerce System is a groundbreaking platform poised to redefine the agricultural trade landscape. Mode for farmers, buyers, and administrators, this user-centric system introduces a seamless and efficient approach to buying and selling agricultural products. </p>
 
+![thumbnail](https://github.com/user-attachments/assets/12dd2925-11e1-4921-8a0e-225589dc434a)
+
+
 <h2>Development Tools</h2>
 1. Framework and Language: .NET framework, C# Windows forms Application.<br>
 2. Database Management System: Microsoft SQL Server.<br>
