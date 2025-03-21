@@ -45,3 +45,8 @@
 
 •	In the manage my product page, a seller can add, remove, update details about their products.
 •	In the manage my account page, a seller can update information about their account like password or email like the buyer.
+
+
+#Demonstration Link
+https://drive.google.com/file/d/1qExte-p043gFmOFrxs4Fg-LQa2IuIVwd/view?usp=drive_link
+
